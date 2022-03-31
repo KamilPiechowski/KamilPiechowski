@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KamilPiechowski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in: beating up homeless people
+- 🌱 I’m currently learning: UE4
+- 💞️ I’m looking to collaborate on: nothin'
 - 📫 How to reach me: you can't
 
 <!---
